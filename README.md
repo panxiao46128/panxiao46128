@@ -24,6 +24,6 @@ Welcome ,visitor!
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiao46128&theme=dark&layout=compact)
 
-![](https://activity-graph.herokuapp.com/graph?username=&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=panxiao46128&theme=github)
 
 
