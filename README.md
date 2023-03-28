@@ -24,6 +24,6 @@ Welcome ,visitor!
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiao46128&theme=dark&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=panxiao46128&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=panxiao46128&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
