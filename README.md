@@ -1,20 +1,6 @@
 #                                     <p align="center">Hi👋 Welcome to Morgan Jayson's Github  HomePage !</p>     
 
-<!--
-**panxiao46128/panxiao46128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:![labi1](https://user-images.githubusercontent.com/111492792/228155196-3f7f5f80-0696-4460-b638-237bbaedbe24.png)
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### <p align="center">Welcome ,visitor!</p>
 ### <p align="center">I’m currently working as a BlockChain developer.
 </p>  
@@ -29,7 +15,7 @@ Here are some ideas to get you started:![labi1](https://user-images.githubuserco
 
 - 🤔 I’m looking for work with the Builders to "win-win" concept of cooperation.  
 
-<img src="https://github.com/panxiao46128/panxiao46128/blob/9ed79224268c4e4fbb6f3d43c6e38a0f9dd87af3/16477692211339.jpg" width="800" height="400" alt="抖音小程序"/><br/>
+<img src="https://github.com/panxiao46128/panxiao46128/blob/9ed79224268c4e4fbb6f3d43c6e38a0f9dd87af3/16477692211339.jpg" width="600" height="250" alt="抖音小程序"/><br/>
 ****
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiao46128&theme=dark&layout=compact)
