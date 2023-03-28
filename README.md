@@ -22,7 +22,7 @@ Welcome ,visitor!
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=[Github主页地址](https://github.com/panxiao46128)&right_color=red" />
 
-![](https://github-readme-stats.vercel.app/api?username=panxiao46128&show_icons=true&theme=dark&count_private=true)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiao46128&theme=dark&layout=compact)
 
