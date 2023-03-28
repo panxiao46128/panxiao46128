@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome ,visitor!  
-I’m currently working as a BlockChain developer.
+###Welcome ,visitor!  
+###I’m currently working as a BlockChain developer.
 
 
 
