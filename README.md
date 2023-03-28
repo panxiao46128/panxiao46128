@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome ,visitor!
-    I’m currently working as a BlockChain developer.
-<p>
- <img src="https://img.shields.io/static/v1?label=Program&message=Solidity&color=blue"/>
-</p>
+    /I’m currently working as a BlockChain developer.
+
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=[Github主页地址](https://github.com/panxiao46128)&right_color=red" />
 
