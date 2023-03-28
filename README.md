@@ -18,7 +18,7 @@ Here are some ideas to get you started:![labi1](https://user-images.githubuserco
 ### <p align="center">Welcome ,visitor!</p>
 ### <p align="center">I’m currently working as a BlockChain developer.
 </p>  
-![image]((https://github.com/panxiao46128/panxiao46128/blob/main/labi1.png))
+![image](https://github.com/panxiao46128/panxiao46128/blob/main/labi1.png)
 
 
 - 🌱 I’m currently learning Web3 Technologies  
