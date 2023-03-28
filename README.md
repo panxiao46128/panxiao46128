@@ -30,7 +30,7 @@ Here are some ideas to get you started:![labi1](https://user-images.githubuserco
 - 🤔 I’m looking for work with the Builders to "win-win" concept of cooperation.  
 ![image](https://github.com/panxiao46128/panxiao46128/blob/9ed79224268c4e4fbb6f3d43c6e38a0f9dd87af3/16477692211339.jpg
 )
-<img src="https://github.com/panxiao46128/panxiao46128/blob/9ed79224268c4e4fbb6f3d43c6e38a0f9dd87af3/16477692211339.jpg" width="800" height="400" alt="抖音小程序"/><br/>
+<img src="https://github.com/panxiao46128/panxiao46128/blob/9ed79224268c4e4fbb6f3d43c6e38a0f9dd87af3/16477692211339.jpg" width="1000" height="400" alt="抖音小程序"/><br/>
 ****
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiao46128&theme=dark&layout=compact)
