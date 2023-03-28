@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 - 👯 I’m happy to collaborate on Blockchain Projects  
 
 
-- 🤔 I’m looking for work with the Builders to "win-win" concept of cooperation.  
+- 🤔 I’m looking for work with the Builders to "win-win" concept of cooperation.![](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiao46128&theme=dark&layout=compact)
 
 
 
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=panxiao46128&show_icons=true&theme=dark&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiao46128&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=panxiao46128&show_icons=true&theme=dark&count_private=true)  
 
 
 
