@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome ,visitor!
-    /I’m currently working as a BlockChain developer.
+Welcome ,visitor!  I’m currently working as a BlockChain developer.
 
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=[Github主页地址](https://github.com/panxiao46128)&right_color=red" />
