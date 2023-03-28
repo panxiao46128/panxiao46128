@@ -27,9 +27,10 @@ Here are some ideas to get you started:![labi1](https://user-images.githubuserco
 - 👯 I’m happy to collaborate on Blockchain Projects  
 
 
-- 🤔 I’m looking for work with the Builders to "win-win" concept of cooperation.  ![image](https://github.com/panxiao46128/panxiao46128/blob/ebd5805cdb41b39c0fce147f9ec8c12bddcc5b03/labi1.png
+- 🤔 I’m looking for work with the Builders to "win-win" concept of cooperation.  
+![image](https://github.com/panxiao46128/panxiao46128/blob/9ed79224268c4e4fbb6f3d43c6e38a0f9dd87af3/16477692211339.jpg
 )
-
+****
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiao46128&theme=dark&layout=compact)
 
