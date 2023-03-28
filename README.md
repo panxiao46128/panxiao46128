@@ -16,16 +16,6 @@ Here are some ideas to get you started:
 -->
 Welcome ,visitor!
 <p>
-<img src="https://img.shields.io/static/v1?label=Program&message=Solidity&color=blue"/>
-<a href="你的CSDN主页链接"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
-</p>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=[Github主页地址](https://github.com/panxiao46128)&right_color=red" />
-
-![](https://github-readme-stats.vercel.app/api?username=panxiao46128&show_icons=true&theme=dark&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiao46128&theme=dark&layout=compact)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=panxiao46128&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
