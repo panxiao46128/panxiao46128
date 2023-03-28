@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 - 🤔 I’m looking for work with the Builders to "win-win" concept of cooperation.
-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiao46128&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiao46128&theme=dark&layout=compact)
 
 
 
