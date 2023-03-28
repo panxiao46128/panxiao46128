@@ -19,8 +19,7 @@ Here are some ideas to get you started:![labi1](https://user-images.githubuserco
 ### <p align="center">I’m currently working as a BlockChain developer.
 </p>  
 
-![image](https://github.com/panxiao46128/panxiao46128/blob/ebd5805cdb41b39c0fce147f9ec8c12bddcc5b03/labi1.png
-)
+
 
 - 🌱 I’m currently learning Web3 Technologies  
 
@@ -28,7 +27,8 @@ Here are some ideas to get you started:![labi1](https://user-images.githubuserco
 - 👯 I’m happy to collaborate on Blockchain Projects  
 
 
-- 🤔 I’m looking for work with the Builders to "win-win" concept of cooperation.  
+- 🤔 I’m looking for work with the Builders to "win-win" concept of cooperation.  ![image](https://github.com/panxiao46128/panxiao46128/blob/ebd5805cdb41b39c0fce147f9ec8c12bddcc5b03/labi1.png
+)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiao46128&theme=dark&layout=compact)
