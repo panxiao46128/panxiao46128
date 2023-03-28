@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Welcome ,visitor!  I’m currently working as a BlockChain developer.
 
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=(https://github.com/panxiao46128)&right_color=red" />
+
 
 ![](https://github-readme-stats.vercel.app/api?username=panxiao46128&show_icons=true&theme=dark&count_private=true)
 
