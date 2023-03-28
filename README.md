@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">Welcome ,visitor!</p>
-<p align="center">🔭I’m currently working as a BlockChain developer.
+<p align="center">I’m currently working as a BlockChain developer.
 </p>
+  🌱 I’m currently learning Web3 Technologies
+- 👯 I’m happy to collaborate on Blockchain Projects
+- 🤔 I’m looking for work with the Builders to "win-win" concept of cooperation.
+
+
 
 
 
