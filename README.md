@@ -22,3 +22,6 @@ Welcome ,visitor!
 
 ![](https://github-readme-stats.vercel.app/api?username=panxiao46128&show_icons=true&theme=dark&count_private=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiao46128&theme=dark&layout=compact)
+
+
