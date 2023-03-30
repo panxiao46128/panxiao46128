@@ -3,7 +3,7 @@
 
 ### <p align="center">Welcome ,visitor!</p>
 ### <p align="center">I’m currently working as a BlockChain developer.</p>
-### <p align="center">connect me on </p>  
+  
 
 
 
