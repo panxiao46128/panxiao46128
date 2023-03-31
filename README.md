@@ -1,6 +1,6 @@
 #                                     <p align="center">Hi👋 Welcome to Morgan Jayson's Github  HomePage !</p>     
 
-[![@pan63304471 Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@pan63304471)
+
 ### <p align="center">Welcome ,visitor!</p>
 <h3 align="center">I am a software engineer with experience in web development . Currently, I'm focusing on learning more about blockchain and smart contract development.</h3>
 <h3 align="center">Connect with me on:</h3>
@@ -12,7 +12,7 @@
 </p>
 <h1 align="center">My projects:</h1>
 <p align="center">
-  <a href="https://github.com/your-github-username/project-1"><img src="https://img.shields.io/badge/-Project%201-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/panxiao46128/project-1"><img src="https://img.shields.io/badge/-Project%201-181717?style=for-the-badge&logo=github"></a>
   <a href="https://github.com/your-github-username/project-2"><img src="https://img.shields.io/badge/-Project%202-181717?style=for-the-badge&logo=github"></a>
   <a href="https://github.com/your-github-username/project-3"><img src="https://img.shields.io/badge/-Project%203-181717?style=for-the-badge&logo=github"></a>
 </p>
