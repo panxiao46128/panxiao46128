@@ -29,28 +29,33 @@
 
 [![@pan63304471 Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@pan63304471)
 
-<img src="https://user-images.githubusercontent.com/87458342/139126049-f7d02356-b1b5-444e-82b2-7b05a2b97d7b.png">
-<h1 align="center">Hi 👋, I'm ChatGPT</h1>
-<h3 align="center">I'm a language model trained by OpenAI, based on the GPT-3.5 architecture.</h3>
+<h1 align="center">Welcome to my homepage!</h1>
+<p align="center">
+  <img src="https://your-image-url.com/your-image.jpg" width="200" height="200"/>
+</p>
+<h3 align="center">I am a software engineer with experience in web development and data analysis. Currently, I'm focusing on learning more about blockchain and smart contract development.</h3>
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
-  <a href="https://github.com/ChatGPT"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/chatgpt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/chat_gpt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://your-medium-handle.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://your-dev-to-handle.dev.to/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 </p>
-<h1 align="center">Skills and Expertise</h1>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChatGPT&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="ChatGPT" align="right">
-<h3 align="left">Programming Languages and Technologies I have worked with:</h3>
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="numpy"/> </a>
-  <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white" alt="scipy"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Hugging%20Face-FF5800?style=for-the-badge&logo=hugging%20face&logoColor=white" alt="huggingface"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="
-
-
+<h1 align="center">My projects:</h1>
+<p align="center">
+  <a href="https://github.com/your-github-username/project-1"><img src="https://img.shields.io/badge/-Project%201-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/your-github-username/project-2"><img src="https://img.shields.io/badge/-Project%202-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/your-github-username/project-3"><img src="https://img.shields.io/badge/-Project%203-181717?style=for-the-badge&logo=github"></a>
+</p>
+<h3 align="center">Skills:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-ChatGPT-blue">
 
 
