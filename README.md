@@ -43,19 +43,21 @@
 
 <img src="https://github.com/panxiao46128/panxiao46128/blob/dcd94a242fab6db7d30db0f5b0024395b1d86f22/photo-1620321023374-d1a68fbc720d.jpg" width="1000" height="400" alt="抖音小程序"/><br/>
 ****
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1;">
-    <ul>
-      <li>🌱 I’m currently learning Web3 Technologies</li>
-      <li>👯 I’m happy to collaborate on Blockchain Projects</li>
-      <li>🤔 I’m looking for work with the Builders</li>
-      <li>👨‍💻 I am interested in the blockchain industry</li>
-    </ul>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github.com/panxiao46128/panxiao46128/blob/dcd94a242fab6db7d30db0f5b0024395b1d86f22/photo-1620321023374-d1a68fbc720d.jpg" width="1000" height="400" alt="抖音小程序"/>
-  </div>
-</div>
+<br>
+
+<img src="https://github.com/panxiao46128/panxiao46128/blob/dcd94a242fab6db7d30db0f5b0024395b1d86f22/photo-1620321023374-d1a68fbc720d.jpg" align="right" width=300>
+
+- 🌱 I’m currently learning Web3 Technologies  
+
+
+- 👯 I’m happy to collaborate on Blockchain Projects  
+
+
+- 🤔 I’m looking for work with the Builders .  
+
+- 👨‍💻 I am interested in the blockchain industry.
+
+<br>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=panxiao46128&show_icons=true&theme=dark&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiao46128&theme=dark&layout=compact)
