@@ -53,9 +53,10 @@
     </ul>
   </div>
   <div style="flex: 1;">
-    <img src="https://github.com/panxiao46128/panxiao46128/blob/dcd94a242fab6db7d30db0f5b0024395b1d86f22/photo-1620321023374-d1a68fbc720d.jpg" width="500" height="200" alt="抖音小程序"/>
+    <img src="https://github.com/panxiao46128/panxiao46128/blob/dcd94a242fab6db7d30db0f5b0024395b1d86f22/photo-1620321023374-d1a68fbc720d.jpg" width="1000" height="400" alt="抖音小程序"/>
   </div>
 </div>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=panxiao46128&show_icons=true&theme=dark&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=panxiao46128&theme=dark&layout=compact)
 
