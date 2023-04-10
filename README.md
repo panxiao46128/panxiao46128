@@ -12,9 +12,14 @@
 </p>
 <h1 align="center">My projects:</h1>
 <p align="center">
-  <a href="https://github.com/panxiao46128/hardhat-nft-market"><img src="https://img.shields.io/badge/-Project%201-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/panxiao46128/hardhat-nft"><img src="https://img.shields.io/badge/-Project%202-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/panxiao46128/Raffle"><img src="https://img.shields.io/badge/-Project%203-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/panxiao46128/hardhat-nft-market"><img src="https://img.shields.io/badge/-Project%201-181717?style=for-the-badge&logo=github"></a><br>
+  This is a repo showing how to make an NFT Marketplace from scratch!
+  <br><br>
+  <a href="https://github.com/panxiao46128/hardhat-nft"><img src="https://img.shields.io/badge/-Project%202-181717?style=for-the-badge&logo=github"></a><br>
+  We go through creating 3 different kinds of NFTs.
+  <br><br>
+  <a href="https://github.com/panxiao46128/Raffle"><img src="https://img.shields.io/badge/-Project%203-181717?style=for-the-badge&logo=github"></a><br>
+  This is a decentralized raffle contract.
 </p>
 <h3 align="center">Skills:</h3>
 <p align="center">
