@@ -20,7 +20,7 @@
         <a href="https://github.com/panxiao46128/hardhat-nft-market"><img src="https://img.shields.io/badge/-Project%201-181717?style=for-the-badge&logo=github"></a>
       </td>
       <td>
-        <p style="color: #333;"><b>This is a repo showing how to make an NFT Marketplace from scratch!"Create NFTs, auction NFTs, showcase NFTs.</b></p>
+        <p style="color: #333;"><b>This is a repo showing how to make an NFT Marketplace from scratch!"Create NFTs, auction NFTs, showcase NFTs."</b></p>
       </td>
     </tr>
     <tr>
