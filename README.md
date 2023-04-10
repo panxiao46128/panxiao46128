@@ -44,14 +44,17 @@
 
 
 
-<h3 align="center">Skills:</h3>
+<h3 align="center">My Skills:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white">
-  <img src="https://img.shields.io/badge/-Hardhat-1e1e1e?style=flat-square&logo=hardhat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Hardhat-231F20?style=flat-square&logo=hardhat&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-ChatGPT-blue">
+ 
 </p>
 
 ****
