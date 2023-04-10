@@ -14,7 +14,7 @@
 <h1 align="center">My projects:</h1>
 
  <center>
-  <table>
+  <table align="right">
     <tr>
       <td>
         <a href="https://github.com/panxiao46128/hardhat-nft-market"><img src="https://img.shields.io/badge/-Project%201-181717?style=for-the-badge&logo=github"></a>
@@ -41,6 +41,7 @@
     </tr>
   </table>
 </center>
+
 <h3 align="center">Skills:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
