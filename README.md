@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/-Hardhat-231F20?style=flat-square&logo=hardhat&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+
 
  
 </p>
