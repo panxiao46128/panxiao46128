@@ -14,7 +14,7 @@
 
 
  <h1 align="center">My projects:</h1>
-
+---
 <center>
   <table>
     <tr>
