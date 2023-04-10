@@ -13,7 +13,7 @@
 
 <h1 align="center">My projects:</h1>
 
-    <center>
+ <center>
   <table>
     <tr>
       <td>
