@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/-Hardhat-231F20?style=flat-square&logo=hardhat&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAI-ChatGPT-blue">
+
  
 </p>
 
