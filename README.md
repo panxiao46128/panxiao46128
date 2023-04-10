@@ -11,16 +11,33 @@
   <a href="https://your-dev-to-handle.dev.to/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 </p>
 <h1 align="center">My projects:</h1>
-<p align="center">
-  <a href="https://github.com/panxiao46128/hardhat-nft-market"><img src="https://img.shields.io/badge/-Project%201-181717?style=for-the-badge&logo=github"></a><br>
-  This is a repo showing how to make an NFT Marketplace from scratch!
-  <br><br>
-  <a href="https://github.com/panxiao46128/hardhat-nft"><img src="https://img.shields.io/badge/-Project%202-181717?style=for-the-badge&logo=github"></a><br>
-  We go through creating 3 different kinds of NFTs.
-  <br><br>
-  <a href="https://github.com/panxiao46128/Raffle"><img src="https://img.shields.io/badge/-Project%203-181717?style=for-the-badge&logo=github"></a><br>
-  This is a decentralized raffle contract.
-</p>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/panxiao46128/hardhat-nft-market"><img src="https://img.shields.io/badge/-Project%201-181717?style=for-the-badge&logo=github"></a>
+    </td>
+    <td>
+      <p style="color: #333;"><b>This is a repo showing how to make an NFT Marketplace from scratch!</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/panxiao46128/hardhat-nft"><img src="https://img.shields.io/badge/-Project%202-181717?style=for-the-badge&logo=github"></a>
+    </td>
+    <td>
+      <p style="color: #333;"><b>We go through creating 3 different kinds of NFTs.</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/panxiao46128/Raffle"><img src="https://img.shields.io/badge/-Project%203-181717?style=for-the-badge&logo=github"></a>
+    </td>
+    <td>
+      <p style="color: #333;"><b>This is a decentralized raffle contract.</b></p>
+    </td>
+  </tr>
+</table>
 <h3 align="center">Skills:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
